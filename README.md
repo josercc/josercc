@@ -8,7 +8,7 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[1个月前 👍：1  ⭐：3]
+<li align='left'>[2个月前 👍：1  ⭐：3]
       <a href="https://juejin.cn/post/7260752483055173692" target="_blank">Flutter 热更新无侵入方案(插件中心)</a>
       </li>
 <li align='left'>[2个月前 👍：1  ⭐：1]
