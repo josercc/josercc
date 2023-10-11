@@ -14,7 +14,7 @@
 <li align='left'>[2个月前 👍：1  ⭐：2]
       <a href="https://juejin.cn/post/7257705589140602941" target="_blank">Flutter 热更新无侵入方案（生成注册表）</a>
       </li>
-<li align='left'>[3个月前 👍：30  ⭐：59]
+<li align='left'>[3个月前 👍：30  ⭐：60]
       <a href="https://juejin.cn/post/7246676109613416503" target="_blank">Flutter 热更新无侵入方案（生成运行时库）</a>
       </li>
 <li align='left'>[4个月前 👍：0  ⭐：0]
@@ -23,7 +23,7 @@
 <li align='left'>[4个月前 👍：34  ⭐：46]
       <a href="https://juejin.cn/post/7233211418124091453" target="_blank">Flutter 热更新无侵入方案（探讨）</a>
       </li>
-<li align='left'>[5个月前 👍：0  ⭐：0]
+<li align='left'>[5个月前 👍：0  ⭐：1]
       <a href="https://juejin.cn/post/7232216049579638843" target="_blank">学习 Unity Addressables</a>
       </li>
 <li align='left'>[5个月前 👍：0  ⭐：0]
