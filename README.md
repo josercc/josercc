@@ -8,10 +8,10 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[16小时前 👍：2  ⭐：2]
+<li align='left'>[1天前 👍：4  ⭐：8]
       <a href="https://juejin.cn/post/7293448897435271220" target="_blank">研究基于 Flutter Shorebird 热更新支持中国区域的问题</a>
       </li>
-<li align='left'>[2个月前 👍：1  ⭐：4]
+<li align='left'>[3个月前 👍：1  ⭐：4]
       <a href="https://juejin.cn/post/7260752483055173692" target="_blank">Flutter 热更新无侵入方案(插件中心)</a>
       </li>
 <li align='left'>[3个月前 👍：1  ⭐：2]
