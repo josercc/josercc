@@ -8,7 +8,7 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[3天前 👍：5  ⭐：12]
+<li align='left'>[4天前 👍：7  ⭐：13]
       <a href="https://juejin.cn/post/7293448897435271220" target="_blank">研究基于 Flutter Shorebird 热更新支持中国区域的问题</a>
       </li>
 <li align='left'>[3个月前 👍：1  ⭐：4]
