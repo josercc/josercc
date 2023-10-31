@@ -8,7 +8,10 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[5天前 👍：7  ⭐：14]
+<li align='left'>[15小时前 👍：1  ⭐：0]
+      <a href="https://juejin.cn/post/7295767535528525839" target="_blank">关于如何使用自定义 Shorebird  补丁下载路径进行热更新</a>
+      </li>
+<li align='left'>[6天前 👍：7  ⭐：14]
       <a href="https://juejin.cn/post/7293448897435271220" target="_blank">研究基于 Flutter Shorebird 热更新支持中国区域的问题</a>
       </li>
 <li align='left'>[3个月前 👍：1  ⭐：4]
@@ -23,7 +26,7 @@
 <li align='left'>[5个月前 👍：0  ⭐：0]
       <a href="https://juejin.cn/post/7233597845919875131" target="_blank">自定义 Unity 组件属性面板</a>
       </li>
-<li align='left'>[5个月前 👍：43  ⭐：49]
+<li align='left'>[5个月前 👍：43  ⭐：50]
       <a href="https://juejin.cn/post/7233211418124091453" target="_blank">Flutter 热更新无侵入方案（探讨）</a>
       </li>
 <li align='left'>[5个月前 👍：0  ⭐：1]
@@ -34,9 +37,6 @@
       </li>
 <li align='left'>[5个月前 👍：0  ⭐：0]
       <a href="https://juejin.cn/post/7231967430947733563" target="_blank">学习自定义 Unity 编辑器扩展（入门）</a>
-      </li>
-<li align='left'>[5个月前 👍：0  ⭐：4]
-      <a href="https://juejin.cn/post/7231448641977892921" target="_blank">学习 Unity AssetBundle（AB包）</a>
       </li>
 </ul>
         </td>
