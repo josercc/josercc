@@ -8,28 +8,28 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[14天前 👍：0  ⭐：2]
+<li align='left'>[15天前 👍：0  ⭐：2]
       <a href="https://juejin.cn/post/7296371846756745250" target="_blank">Shorebird 联合 Appwrite 实现更新逻辑？</a>
       </li>
-<li align='left'>[16天前 👍：2  ⭐：0]
+<li align='left'>[17天前 👍：2  ⭐：0]
       <a href="https://juejin.cn/post/7295767535528525839" target="_blank">关于如何使用自定义 Shorebird  补丁下载路径进行热更新</a>
       </li>
-<li align='left'>[22天前 👍：13  ⭐：22]
+<li align='left'>[23天前 👍：14  ⭐：22]
       <a href="https://juejin.cn/post/7293448897435271220" target="_blank">研究基于 Flutter Shorebird 热更新支持中国区域的问题</a>
       </li>
 <li align='left'>[3个月前 👍：1  ⭐：4]
       <a href="https://juejin.cn/post/7260752483055173692" target="_blank">Flutter 热更新无侵入方案(插件中心)</a>
       </li>
-<li align='left'>[3个月前 👍：1  ⭐：2]
+<li align='left'>[4个月前 👍：1  ⭐：2]
       <a href="https://juejin.cn/post/7257705589140602941" target="_blank">Flutter 热更新无侵入方案（生成注册表）</a>
       </li>
-<li align='left'>[4个月前 👍：37  ⭐：67]
+<li align='left'>[5个月前 👍：37  ⭐：68]
       <a href="https://juejin.cn/post/7246676109613416503" target="_blank">Flutter 热更新无侵入方案（生成运行时库）</a>
       </li>
 <li align='left'>[6个月前 👍：0  ⭐：0]
       <a href="https://juejin.cn/post/7233597845919875131" target="_blank">自定义 Unity 组件属性面板</a>
       </li>
-<li align='left'>[6个月前 👍：48  ⭐：55]
+<li align='left'>[6个月前 👍：48  ⭐：56]
       <a href="https://juejin.cn/post/7233211418124091453" target="_blank">Flutter 热更新无侵入方案（探讨）</a>
       </li>
 <li align='left'>[6个月前 👍：0  ⭐：2]
