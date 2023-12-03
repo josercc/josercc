@@ -8,7 +8,7 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[5天前 👍：0  ⭐：0]
+<li align='left'>[6天前 👍：0  ⭐：0]
       <a href="https://juejin.cn/post/7306017890075312143" target="_blank">DartOpsHub 社区成立了</a>
       </li>
 <li align='left'>[1个月前 👍：0  ⭐：2]
