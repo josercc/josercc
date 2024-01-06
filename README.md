@@ -8,10 +8,10 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[8天前 👍：9  ⭐：5]
+<li align='left'>[9天前 👍：9  ⭐：6]
       <a href="https://juejin.cn/post/7317467562879303714" target="_blank">使用Dart构建一套Flutter自动打包脚本</a>
       </li>
-<li align='left'>[28天前 👍：2  ⭐：0]
+<li align='left'>[29天前 👍：2  ⭐：0]
       <a href="https://juejin.cn/post/7310034974425088052" target="_blank">Dart 自动化流程引擎的实现</a>
       </li>
 <li align='left'>[1个月前 👍：0  ⭐：0]
