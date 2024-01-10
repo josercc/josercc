@@ -8,7 +8,7 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[12天前 👍：9  ⭐：8]
+<li align='left'>[13天前 👍：10  ⭐：8]
       <a href="https://juejin.cn/post/7317467562879303714" target="_blank">使用Dart构建一套Flutter自动打包脚本</a>
       </li>
 <li align='left'>[1个月前 👍：2  ⭐：0]
