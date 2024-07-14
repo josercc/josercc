@@ -35,7 +35,7 @@
 <li align='left'>[11个月前 👍：5  ⭐：8]
       <a href="https://juejin.cn/post/7260752483055173692" target="_blank">Flutter 热更新无侵入方案(插件中心)</a>
       </li>
-<li align='left'>[11个月前 👍：1  ⭐：2]
+<li align='left'>[12个月前 👍：1  ⭐：3]
       <a href="https://juejin.cn/post/7257705589140602941" target="_blank">Flutter 热更新无侵入方案（生成注册表）</a>
       </li>
 </ul>
