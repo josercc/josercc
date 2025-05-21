@@ -8,7 +8,7 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[7天前 👍：2  ⭐：0]
+<li align='left'>[8天前 👍：2  ⭐：0]
       <a href="https://juejin.cn/post/7503532008497840147" target="_blank">记一下iOS App无法访问到网络</a>
       </li>
 <li align='left'>[1年前 👍：1  ⭐：0]
