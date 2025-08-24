@@ -8,6 +8,9 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
+<li align='left'>[14小时前 👍：0  ⭐：0]
+      <a href="https://juejin.cn/post/7541801054180261914" target="_blank">Petrel(雨燕) 新一代 Flutter Web 热更新框架.</a>
+      </li>
 <li align='left'>[3个月前 👍：4  ⭐：0]
       <a href="https://juejin.cn/post/7503532008497840147" target="_blank">记一下iOS App无法访问到网络</a>
       </li>
@@ -34,9 +37,6 @@
       </li>
 <li align='left'>[1年前 👍：24  ⭐：49]
       <a href="https://juejin.cn/post/7293448897435271220" target="_blank">研究基于 Flutter Shorebird 热更新支持中国区域的问题</a>
-      </li>
-<li align='left'>[2年前 👍：5  ⭐：10]
-      <a href="https://juejin.cn/post/7260752483055173692" target="_blank">Flutter 热更新无侵入方案(插件中心)</a>
       </li>
 </ul>
         </td>
