@@ -8,7 +8,7 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[14小时前 👍：0  ⭐：0]
+<li align='left'>[1天前 👍：1  ⭐：5]
       <a href="https://juejin.cn/post/7541801054180261914" target="_blank">Petrel(雨燕) 新一代 Flutter Web 热更新框架.</a>
       </li>
 <li align='left'>[3个月前 👍：4  ⭐：0]
