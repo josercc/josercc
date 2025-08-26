@@ -8,7 +8,10 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[1天前 👍：1  ⭐：5]
+<li align='left'>[19小时前 👍：2  ⭐：1]
+      <a href="https://juejin.cn/post/7542520944361422888" target="_blank">Petrel（雨燕）Flutter 热更新如何在我们项目应用</a>
+      </li>
+<li align='left'>[2天前 👍：4  ⭐：6]
       <a href="https://juejin.cn/post/7541801054180261914" target="_blank">Petrel(雨燕) 新一代 Flutter Web 热更新框架.</a>
       </li>
 <li align='left'>[3个月前 👍：4  ⭐：0]
@@ -34,9 +37,6 @@
       </li>
 <li align='left'>[1年前 👍：2  ⭐：1]
       <a href="https://juejin.cn/post/7295767535528525839" target="_blank">关于如何使用自定义 Shorebird  补丁下载路径进行热更新</a>
-      </li>
-<li align='left'>[1年前 👍：24  ⭐：49]
-      <a href="https://juejin.cn/post/7293448897435271220" target="_blank">研究基于 Flutter Shorebird 热更新支持中国区域的问题</a>
       </li>
 </ul>
         </td>
