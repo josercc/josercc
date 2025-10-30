@@ -35,7 +35,7 @@
 <li align='left'>[1年前 👍：1  ⭐：3]
       <a href="https://juejin.cn/post/7296371846756745250" target="_blank">Shorebird 联合 Appwrite 实现更新逻辑？</a>
       </li>
-<li align='left'>[1年前 👍：2  ⭐：1]
+<li align='left'>[2年前 👍：2  ⭐：1]
       <a href="https://juejin.cn/post/7295767535528525839" target="_blank">关于如何使用自定义 Shorebird  补丁下载路径进行热更新</a>
       </li>
 </ul>
