@@ -8,10 +8,13 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
+<li align='left'>[20小时前 👍：0  ⭐：0]
+      <a href="https://juejin.cn/post/7577284771446587432" target="_blank">买 Cursor 我竟然遇到骗子了，竟然被 一个假借 Cursor-Vip 的骗子软件骗到了</a>
+      </li>
 <li align='left'>[3个月前 👍：7  ⭐：8]
       <a href="https://juejin.cn/post/7542520944361422888" target="_blank">Petrel（雨燕）Flutter 热更新如何在我们项目应用</a>
       </li>
-<li align='left'>[3个月前 👍：10  ⭐：12]
+<li align='left'>[3个月前 👍：10  ⭐：13]
       <a href="https://juejin.cn/post/7541801054180261914" target="_blank">Petrel(雨燕) 新一代 Flutter Web 热更新框架.</a>
       </li>
 <li align='left'>[6个月前 👍：5  ⭐：0]
@@ -34,9 +37,6 @@
       </li>
 <li align='left'>[2年前 👍：1  ⭐：3]
       <a href="https://juejin.cn/post/7296371846756745250" target="_blank">Shorebird 联合 Appwrite 实现更新逻辑？</a>
-      </li>
-<li align='left'>[2年前 👍：2  ⭐：1]
-      <a href="https://juejin.cn/post/7295767535528525839" target="_blank">关于如何使用自定义 Shorebird  补丁下载路径进行热更新</a>
       </li>
 </ul>
         </td>
