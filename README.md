@@ -8,7 +8,7 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[24天前 👍：0  ⭐：0]
+<li align='left'>[25天前 👍：0  ⭐：0]
       <a href="https://juejin.cn/post/7577284771446587432" target="_blank">买 Cursor 我竟然遇到骗子了，竟然被 一个假借 Cursor-Vip 的骗子软件骗到了</a>
       </li>
 <li align='left'>[3个月前 👍：8  ⭐：9]
