@@ -8,7 +8,7 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[2个月前 👍：1  ⭐：2]
+<li align='left'>[2个月前 👍：1  ⭐：3]
       <a href="https://juejin.cn/post/7608750276678287396" target="_blank">第三十二章 接下来我们开始做`灭菌整板`页面</a>
       </li>
 <li align='left'>[2个月前 👍：0  ⭐：1]
