@@ -8,7 +8,7 @@
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[24天前 👍：5  ⭐：7]
+<li align='left'>[25天前 👍：5  ⭐：7]
       <a href="https://juejin.cn/post/7696040591158034451" target="_blank">Shorebird 的国内版来了？</a>
       </li>
 <li align='left'>[1个月前 👍：5  ⭐：9]
